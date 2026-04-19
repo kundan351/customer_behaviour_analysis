@@ -1,7 +1,7 @@
 # 👨🏻‍💻Customer Behavior Data Analyst Portfolio Project
 This project represents a complete, industry standard, end-to-end data analytics workflow, designed to mirror the real responsibilities of professional analysts in modern business environments. The project encompasses all critical stages of data analysis, from data preparation and modeling to insight generation, visualization, and reporting.
 
-![Alt Text](https://github.com/kundan351/customer_behaviour_analysis/blob/0f33c8f1888ce98a03874b0a5c89cffabdfc4365/Screenshot%202026-04-19%20211028.png)
+![Alt Text](https://github.com/kundan351/customer_behaviour_analysis/blob/a79e11b12c622f1f79d362144594891a08d919cc/Screenshot%202026-04-19%20212131.png)
 
 
 ## 📌 Project Overview
