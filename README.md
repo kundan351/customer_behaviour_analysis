@@ -7,9 +7,9 @@ This project represents a complete, industry standard, end-to-end data analytics
 This project demonstrates a complete data analytics workflow — from loading raw data in Python to building interactive dashboards and presenting insights. It covers EDA, data cleaning, SQL queries, Power BI visualization, reporting, and presentation.
 
 📂 Dataset
-Source: [Specify dataset name or link if public]
+Source: [customer_shopping_behavior.csv]
 
-Format: CSV/Excel
+Format: CSV
 
 ✅ Data Preparation,Modeling & Exploratory Data Analysis (Python): Clean and transform the raw dataset for analysis.
 
@@ -65,10 +65,10 @@ Professional report and presentation for stakeholders
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/amlanmohanty1/customer-trends-data-analysis-SQL-Python-PowerBI.git
-   cd customer-trends-data-analysis-SQL-Python-PowerBI
+   git clone https://github.com/kundan351/customer_behaviour_analysis.git
+   cd customer_behaviour_analysis
    ```
-2. **Open Customer_Shopping_Behavior_Analysis.ipynb notebook**
+2. **Open Customer_Shopping_behavior.ipynb notebook**
 
     This file contains:
 
@@ -86,13 +86,13 @@ Professional report and presentation for stakeholders
 
       - Run Python code to load data into SQL database
   
-      - Open **customer_behavior_sql_queries.sql**
+      - Open **customer_behaviour_sql_queries.sql**
   
       - Answer Business Questions using SQL Queries 
       
 4. **Connect the SQL Database to Power BI**
 
-      - Open **customer_behavior_dashboard.pbix**
+      - Open **customer_behaviour_dashboard.pbix**
    
       - Create interactive dashboard in Power BI
   
