@@ -7,7 +7,7 @@ This project represents a complete, industry standard, end-to-end data analytics
 This project demonstrates a complete data analytics workflow — from loading raw data in Python to building interactive dashboards and presenting insights. It covers EDA, data cleaning, SQL queries, Power BI visualization, reporting, and presentation.
 
 📂 Dataset
-Source: [customer_shopping_behavior.csv]
+Source: (customer_shopping_behavior.csv)
 
 Format: CSV
 
